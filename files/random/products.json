@@ -1,0 +1,68 @@
+[
+  {
+    "category": "A",
+    "products": [
+      "WATER",
+      "BREAD",
+      "CEREAL",
+      "BANANA",
+      "HAM",
+      "CHEESE",
+      "CHICKEN",
+      "APPLE",
+      "MILK",
+      "JUICE",
+      "TEA",
+      "RICE",
+      "TOMATOES",
+      "LETTUCE"
+    ]
+  },
+  {
+    "category": "B",
+    "products": [
+      "The Lord of the Rings",
+      "Hobbit",
+      "It",
+      "Broken Glass",
+      "Harry Potter and the Goblet of Fire",
+      "The Girl With the Dragon Tattoo",
+      "Harvest",
+      "Gone Girl",
+      "The Underground Railroad",
+      "The Noonday Demon",
+      "TSHIRT",
+      "TROUSERS",
+      "CARDIGAN",
+      "JACKET",
+      "SHOES",
+      "HAT",
+      "SHIRT",
+      "Cat food",
+      "Dog food",
+      "Dog toy",
+      "Cat toy",
+      "Leash",
+      "Collar"
+    ]
+  },
+  {
+    "category": "C",
+    "products": [
+      "CHAIR",
+      "TABLE",
+      "DESK",
+      "WARDROBE",
+      "CUPBOARD",
+      "BED",
+      "DRAWER",
+      "FRIDGE",
+      "DISHWASHER",
+      "OVEN",
+      "MICROWAVE",
+      "WASHER",
+      "DRYER",
+      "INDUCTION HOB"
+    ]
+  }
+]

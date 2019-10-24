@@ -1,0 +1,152 @@
+[
+  {
+    "name": "TOMATOES",
+    "price": 2.4,
+    "category": "A"
+  },
+  {
+    "name": "CHAIR",
+    "price": 1001.8,
+    "category": "C"
+  },
+  {
+    "name": "DRAWER",
+    "price": 1026.8,
+    "category": "C"
+  },
+  {
+    "name": "WATER",
+    "price": 6.0,
+    "category": "A"
+  },
+  {
+    "name": "TEA",
+    "price": 5.2,
+    "category": "A"
+  },
+  {
+    "name": "TOMATOES",
+    "price": 5.9,
+    "category": "A"
+  },
+  {
+    "name": "RICE",
+    "price": 4.7,
+    "category": "A"
+  },
+  {
+    "name": "APPLE",
+    "price": 6.7,
+    "category": "A"
+  },
+  {
+    "name": "BANANA",
+    "price": 3.5,
+    "category": "A"
+  },
+  {
+    "name": "MILK",
+    "price": 4.5,
+    "category": "A"
+  },
+  {
+    "name": "LETTUCE",
+    "price": 4.7,
+    "category": "A"
+  },
+  {
+    "name": "TSHIRT",
+    "price": 56.6,
+    "category": "B"
+  },
+  {
+    "name": "Gone Girl",
+    "price": 11.3,
+    "category": "B"
+  },
+  {
+    "name": "Dog toy",
+    "price": 58.8,
+    "category": "B"
+  },
+  {
+    "name": "DESK",
+    "price": 1062.1,
+    "category": "C"
+  },
+  {
+    "name": "CARDIGAN",
+    "price": 56.2,
+    "category": "B"
+  },
+  {
+    "name": "DESK",
+    "price": 1065.5,
+    "category": "C"
+  },
+  {
+    "name": "JACKET",
+    "price": 24.1,
+    "category": "B"
+  },
+  {
+    "name": "WARDROBE",
+    "price": 1007.2,
+    "category": "C"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "price": 59.3,
+    "category": "B"
+  },
+  {
+    "name": "CHAIR",
+    "price": 1012.0,
+    "category": "C"
+  },
+  {
+    "name": "OVEN",
+    "price": 1097.5,
+    "category": "C"
+  },
+  {
+    "name": "WASHER",
+    "price": 1033.3,
+    "category": "C"
+  },
+  {
+    "name": "Collar",
+    "price": 40.1,
+    "category": "B"
+  },
+  {
+    "name": "MICROWAVE",
+    "price": 1078.7,
+    "category": "C"
+  },
+  {
+    "name": "DISHWASHER",
+    "price": 1018.3,
+    "category": "C"
+  },
+  {
+    "name": "SHIRT",
+    "price": 10.1,
+    "category": "B"
+  },
+  {
+    "name": "The Noonday Demon",
+    "price": 38.1,
+    "category": "B"
+  },
+  {
+    "name": "Collar",
+    "price": 44.1,
+    "category": "B"
+  },
+  {
+    "name": "INDUCTION HOB",
+    "price": 1003.5,
+    "category": "C"
+  }
+]
